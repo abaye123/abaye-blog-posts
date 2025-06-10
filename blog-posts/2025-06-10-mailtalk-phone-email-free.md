@@ -3,7 +3,7 @@ title: "מיילטוק - מייל טלפוני חינמי"
 titleEn: "Mailtalk - Phone Email Free"
 date: "2025-06-10"
 author: "abaye"
-tags: ["מיילטוק", "תוכנות", "חינם"]
+tags: ["מיילטוק", "תוכנה", "חינם"]
 tagsEn: ["mailtalk", "free"]
 description: "תיאור ומדריך התקנה של מיילטוק - מייל טלפוני חינמי שפותח ע"י @אביי"
 descriptionEn: "Description and installation guide for Mailtalk - free phone email developed by @abaye"
