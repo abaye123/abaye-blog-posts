@@ -8,7 +8,7 @@ description: ""
 descriptionEn: ""
 ---
 
-# יישום תוספות לעמדות מחשב (v1.0.2)
+# יישום תוספות לעמדות מחשב (v1.2.0)
 
 ## ארגומנטים זמינים
 
@@ -83,4 +83,4 @@ C:\kol_desk\kol_desk.exe "/ShowAdd1"
 התוכנה מופצת חינם ללא מטרות רווח, אין לגבות תשלום על התוכנה כלל וכלל.  
 ליצירת קשר ולתמיכה ניתן לפנות לכתובת המייל cs@abaye.co
 
-**[להורדה לחץ כאן](https://drive.google.com/u/0/uc?id=1vfMrSZXc7u_VRAY2Bl-Unv4OwBaY24cK&export=download)**
+**[להורדה לחץ כאן](https://did.li/computer-workstation-add-ons)**
